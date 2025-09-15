@@ -1,0 +1,9 @@
+body {
+    background-color: #e0ebf5;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  table.menu {width: 100%;  background-color:  rgb(158, 53, 184);
+       border-collapse: collapse;
+      }
